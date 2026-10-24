@@ -1,0 +1,12 @@
+{
+  "title": "SA-MP Launcher",
+  "clientUrl": "https://www.sa-mp.mp/downloads/",
+  "servers": [
+    {
+      "id": "main",
+      "name": "Arizona Role Play |5|",
+      "ip": "188.127.241.74",
+      "port": 1198
+    }
+  ]
+}
